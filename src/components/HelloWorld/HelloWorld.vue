@@ -8,5 +8,6 @@
     </p>
   </div>
 </template>
-<style lang="sass" src="./HelloWorld.sass"></style>
+
 <script lang="ts" src="./HelloWorld.ts"></script>
+<style lang="sass" src="./HelloWorld.sass"></style>
